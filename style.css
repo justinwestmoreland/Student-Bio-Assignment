@@ -31,7 +31,7 @@ h2 {
 }
 
 a {
-    color: #d21034
+    color: #b30626
 }
 
 #main-bio {
@@ -46,7 +46,8 @@ a {
     width: 200px;
     height: 200px;
     margin-right: 20px;
-   }
+   
+}
 
 #bio-image, #main-bio, #contact-info {
     float: left;
